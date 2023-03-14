@@ -14,3 +14,4 @@ const Widget = ({ size, title, content }) => {
 };
 
 export default Widget;
+
