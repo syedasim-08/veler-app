@@ -6,8 +6,8 @@ import './Widget.css'
 
 const MobileWidget = () => {
   const [showWidget, setShowWidget] = React.useState(true);
-  const [width, setWidth] = React.useState(200);
-  const [height, setHeight] = React.useState(200);
+  const [width, setWidth] = React.useState(400);
+  const [height, setHeight] = React.useState(400);
 
   const onClose = () => {
     setShowWidget(false);
