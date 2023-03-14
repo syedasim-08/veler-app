@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           React Progressive Web App
+           React Progressive Web Application
         </a>
       </header>
      
