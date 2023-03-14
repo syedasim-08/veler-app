@@ -1,4 +1,4 @@
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -55,20 +55,6 @@
 
 .content {
   padding: 10px;
-} */
-
-
-.dashboard {
-  padding: 20px;
 }
 
-.page-title {
-  font-size: 2rem;
-  margin-bottom: 20px;
-}
 
-.widget-container {
-  display: grid;
-  gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
