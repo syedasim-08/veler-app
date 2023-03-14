@@ -2,7 +2,7 @@ import React from 'react';
 import { FaTimes } from 'react-icons/fa';
 import Draggable from 'react-draggable';
 import { ResizableBox } from 'react-resizable';
-import './Widget.css'
+// import './Widget.css'
 
 const MobileWidget = () => {
   const [showWidget, setShowWidget] = React.useState(true);
