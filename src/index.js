@@ -6,14 +6,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import serviceWorker from './swDev';
-
+import Widget from './components/Widget';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-
+    <Widget />
     <App />
   </React.StrictMode>
 );
