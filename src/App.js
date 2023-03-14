@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import MobileWidget from './components/MobileWidget';
+import Widget from './components/Widget';
 
 function App() {
   return (

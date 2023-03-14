@@ -6,7 +6,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import serviceWorker from './swDev';
-import MobileWidget from './components/MobileWidget'
 
 
 
@@ -14,7 +13,6 @@ import MobileWidget from './components/MobileWidget'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-     <MobileWidget />
 
     <App />
   </React.StrictMode>
