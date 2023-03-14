@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import MobileWidget from './components/MobileWidget';
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
            React PWA
         </a>
       </header>
+      <MobileWidget />
+
     </div>
   );
 }
