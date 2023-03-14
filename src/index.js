@@ -13,7 +13,7 @@ import Widget from './components/Widget';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Widget />
+    {/* <Widget /> */}
     <App />
   </React.StrictMode>
 );
