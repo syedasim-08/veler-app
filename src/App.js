@@ -50,10 +50,12 @@ function App() {
 
         setIsConnected(true)
 
+      }else {
+        alert("Install Metamask")
       }
 
     }catch (err) {
-
+          console.log(err)
     }
 
   }
